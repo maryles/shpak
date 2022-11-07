@@ -19,7 +19,8 @@
 <td style="border:3px navy solid">Pizza con le cozze — с мидиями, чесноком, оливковым маслом и петрушкой.</td>
 <td style="border:3px navy solid">Pizza alle vongole — с венерками (двустворчатые моллюски), помидорами, чесноком, оливковым маслом, и орегано.</td></tr></table>
 <p>И это только малая часть!</p></main>
-<footer style="color:#000000;font-family:gabriola;font-size:17px"><b>Сайт был создан с помощью википедии и </b><a href="https://www.djurenko.com/cooking/picca/domashnyaya-picca.html">рецептов джуренко</a>.
+<footer style="color:#000000;font-family:gabriola;font-size:17px"><b>Сайт был создан с помощью википедии и </b>
+    <a href="https://www.djurenko.com/cooking/picca/domashnyaya-picca.html">рецептов джуренко</a>.
 <h2>Наша почта:
     t04n0Ne0bMMAn@gmail.com
     <p>,а также наш ютуб канал</p>
